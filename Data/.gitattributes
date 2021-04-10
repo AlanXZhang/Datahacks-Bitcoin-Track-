@@ -1,0 +1,2 @@
+bitcoin_test.csv filter=lfs diff=lfs merge=lfs -text
+bitcoin_train.csv filter=lfs diff=lfs merge=lfs -text
